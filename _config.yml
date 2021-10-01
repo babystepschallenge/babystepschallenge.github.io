@@ -14,11 +14,12 @@ author: babystep organisers
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About babysteps: "aboutme"
   Resources:
     - Documentation: "https://zenodo.org/record/4575216"
     - grand-challenge: "https://babysteps.grand-challenge.org/"
-  All challenges: "http://www.miccai.org/special-interest-groups/challenges/miccai-registered-challenges/"
+    - dHCP: "http://www.developingconnectome.org/"
+  Other MICCAI challenges: "http://www.miccai.org/special-interest-groups/challenges/miccai-registered-challenges/"
 
 # --- Logo --- #
 
